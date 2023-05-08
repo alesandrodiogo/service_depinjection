@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "service_depinjection/1.0.0": {
+        "runtime": {
+          "service_depinjection.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "service_depinjection/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
